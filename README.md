@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">AI & Frontend Engineer building scalable, real‑world solutions that blend intuitive design with intelligent systems.<br> <br> <b>🚀 About Me</b><br> 🎯 Specialties: Large Language Models (LLMs) · AI Agents · Computer Vision · Frontend (React, TypeScript)  <br>- 🌱 Always learning: Full‑stack development · Design systems · Modern web tools  <br>- 🤝 Collaboration: I believe in clean code, meaningful teamwork, and projects that make an impact</br> <br><b>📌 Featured Projects</b> <br>  <b>🎨 ResearchAgent </b> —   A secure academic research assistant web app (Flask + Flask_restful + LangChain + OpenAI) providing authenticated users with AI‑powered workflows and citation support.<br><br><b>📊 Knime-Sweden-Energy-Weather</b> — A KNIME workflow integrating SCB & SMHI APIs to analyze correlations between Sweden’s energy production and weather patterns.<br><br><b>📫 Get in Touch</b><br>📧 Email: adenabrehema@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/aden-alemayehu-1629aa255/</p>
+<p align="left">AI & Frontend Engineer building scalable, real‑world solutions that blend intuitive design with intelligent systems.<br> <br> <b>🚀 About Me</b><br> 🎯 Specialties: Large Language Models (LLMs) · AI Agents · Computer Vision · Frontend (React, TypeScript)  <br>- 🌱 Always learning: Full‑stack development · Design systems · Modern web tools  <br>- 🤝 Collaboration: I believe in clean code, meaningful teamwork, and projects that make an impact</br> <br><b></p>
 
 ###
 
